@@ -10,7 +10,7 @@ meme_dict = {
 
 
 
-word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
+word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın unutma!): ")
 
 
 if word in meme_dict.keys():
